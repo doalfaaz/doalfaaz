@@ -1,25 +1,23 @@
-# Hi, I'm Tushar Mehrotra
+# Tushar Mehrotra
 
-I build **tools for creators** — software for writing, designing and publishing thoughtful content — and I use them every day to run **[@doalfaaz](https://instagram.com/doalfaaz)**, where I share psychology, self-awareness and healing ideas in Hinglish.
+**I research how the mind holds on to old patterns — and how awareness lets them go.**
 
-## What I'm working on
+My work sits where modern psychology meets Advaita Vedanta: why we react the way we do, what the body remembers, and what changes when we learn to *witness* instead of escape.
 
-**Content Engine Studio** — a macOS app and a phone web app that turn an idea into a finished, well-designed Instagram carousel, post or poem.
+## What I explore
 
-- A writing and editing surface with autosave, hook and call-to-action variations, and one-tap alternative designs
-- 300+ hand-tuned visual templates, with layouts and type that adapt to the length of the copy
-- Devanagari and Hinglish typography treated as first-class
-- A planning calendar, a saved bank of ideas, and safeguards so that nothing publishes without my explicit approval
-- **Try the phone app:** [doalfaaz.github.io/content-review](https://doalfaaz.github.io/content-review)
+- **The psychology of patterns** — trauma responses, attachment, shame, guilt, and the loops that repeat in relationships
+- **The nervous system** — how safety, regulation and the body's signals shape what we feel and choose
+- **Self-inquiry** — the Gita, Vedanta and the idea of *Aham Brahmasmi*, read as practical tools for daily life rather than distant philosophy
 
-**Native Video Editor** — a SwiftUI suite for finishing short-form video reels.
+## What I share
 
-**Small macOS apps** — Note, Launch OS, Tracky (an AI token-usage meter) and FirstShift.
+On **[Instagram @doalfaaz](https://instagram.com/doalfaaz)** I write carousels, short posts and poems in Hinglish — plain language for hard, tender subjects — so that these ideas are easy to keep and easy to return to.
 
-## About this profile
+## Aham Brahmasmi 2.0 — the course
 
-Most of my work lives in private repositories while it matures. This page and the public repository above are the parts I'm happy to show.
+A structured deep-dive into self-inquiry: **50+ lessons, 15+ hours, lifetime access.** It gathers years of research into one guided path — from recognising a pattern, to understanding where it came from, to loosening its hold.
 
-## Reach me
+## Follow along
 
 Instagram: [@doalfaaz](https://instagram.com/doalfaaz)
